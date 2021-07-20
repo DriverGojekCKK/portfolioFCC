@@ -1,0 +1,20 @@
+html {
+scroll-behavior: smooth;
+}
+
+.project-tile {
+background-color: #ccc;
+margin-top: 10px;
+}
+
+.project-tile h5 {
+color: white;
+}
+
+.card {
+padding-bottom: 10px;
+}
+
+.jumbotron {
+height: 100vh;
+}
